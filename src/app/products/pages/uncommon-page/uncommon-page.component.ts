@@ -55,7 +55,6 @@ export class UncommonPageComponent {
   public promiseValue: Promise<string> = new Promise((resolve, reject) => {
     setTimeout(() => {
       resolve('Tenemos data en la promesa');
-      console.log('Tenemos data en la promesa');
       this.person.name =  'Otro nombre'
     }, 3500);
   });
