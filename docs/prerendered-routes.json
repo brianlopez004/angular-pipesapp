@@ -1,8 +1,0 @@
-{
-  "routes": [
-    "/",
-    "/custom",
-    "/numbers",
-    "/uncommon"
-  ]
-}
