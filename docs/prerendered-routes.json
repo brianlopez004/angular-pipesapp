@@ -1,0 +1,8 @@
+{
+  "routes": [
+    "/",
+    "/custom",
+    "/numbers",
+    "/uncommon"
+  ]
+}
